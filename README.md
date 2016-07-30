@@ -1,1 +1,1 @@
-# crusader_kings_2-tooltip_century_gothic
+# Crusader Kings 2: Tooltip Century Gothic
