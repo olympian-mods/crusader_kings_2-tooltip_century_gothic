@@ -14,7 +14,11 @@ This mod changes the tooltip font to "Century Gothic Bold 18", the same font tha
 This mod is Ironman compatible.
 
 [h1]Additional Mods[/h1]
-In addition to this mod you can subscribe to [url=http://steamcommunity.com/sharedfiles/filedetails/?id=735130352]Interface: Century Gothic[/url] to change all fonts to "Century Gothic".
+In addition to this mod you can subscribe to the following mods:
+[list]
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=735130352]Interface: Century Gothic[/url]: change all fonts to "Century Gothic"
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=739149045]Interface: Stellaris Colors[/url]: Stellaris color palette
+[/list]
 
 [h1]Miscellaneous[/h1]
 If you are looking for a similar mod for Europa Universalis 4 I highly recommend the awesome [url=http://steamcommunity.com/sharedfiles/filedetails/?id=704256650]Stellaris UI Font[/url] by ross-g.
