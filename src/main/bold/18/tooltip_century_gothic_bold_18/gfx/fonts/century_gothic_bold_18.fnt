@@ -200,7 +200,7 @@ char id=234  x=84    y=63    width=11    height=20    xoffset=-1    yoffset=-1  
 char id=235  x=96    y=63    width=11    height=20    xoffset=-1    yoffset=-1    xadvance=9     page=0
 char id=236  x=194   y=168   width=7     height=20    xoffset=-2    yoffset=-1    xadvance=3     page=0
 char id=237  x=202   y=168   width=7     height=20    xoffset=-1    yoffset=-1    xadvance=3     page=0
-char id=238  x=51    y=147   width=9     height=20    xoffset=-2    yoffset=-1    xadvance=3     page=0
+char id=238  x=51    y=147   width=9     height=20    xoffset=-2    yoffset=-1    xadvance=4     page=0
 char id=239  x=72    y=168   width=8     height=20    xoffset=-2    yoffset=-1    xadvance=3     page=0
 char id=240  x=132   y=63    width=11    height=20    xoffset=-1    yoffset=-1    xadvance=9     page=0
 char id=241  x=143   y=126   width=10    height=20    xoffset=-1    yoffset=-1    xadvance=9     page=0
