@@ -104,10 +104,10 @@ char id=134  x=164   y=42    width=11    height=20    xoffset=-1    yoffset=-1  
 char id=135  x=176   y=42    width=11    height=20    xoffset=-1    yoffset=-1    xadvance=11    page=0
 char id=136  x=161   y=147   width=9     height=20    xoffset=0     yoffset=-1    xadvance=11    page=0
 char id=137  x=0     y=0     width=19    height=20    xoffset=-1    yoffset=-1    xadvance=11    page=0
-char id=138  x=121   y=105   width=10    height=20    xoffset=-1    yoffset=-1    xadvance=11    page=0
+char id=138  x=121   y=105   width=10    height=20    xoffset=-1    yoffset=-1    xadvance=8    page=0
 char id=139  x=246   y=168   width=6     height=20    xoffset=-1    yoffset=-1    xadvance=11    page=0
 char id=140  x=20    y=0     width=18    height=20    xoffset=-1    yoffset=-1    xadvance=11    page=0
-char id=142  x=242   y=126   width=10    height=20    xoffset=-1    yoffset=-1    xadvance=11    page=0
+char id=142  x=242   y=126   width=10    height=20    xoffset=-1    yoffset=-1    xadvance=7    page=0
 char id=145  x=69    y=189   width=5     height=20    xoffset=0     yoffset=-1    xadvance=11    page=0
 char id=146  x=81    y=189   width=5     height=20    xoffset=0     yoffset=-1    xadvance=11    page=0
 char id=147  x=229   y=147   width=8     height=20    xoffset=0     yoffset=-1    xadvance=11    page=0
@@ -117,10 +117,10 @@ char id=150  x=240   y=84    width=11    height=20    xoffset=-1    yoffset=-1  
 char id=151  x=77    y=0     width=18    height=20    xoffset=-1    yoffset=-1    xadvance=11    page=0
 char id=152  x=131   y=147   width=9     height=20    xoffset=-1    yoffset=-1    xadvance=11    page=0
 char id=153  x=130   y=0     width=16    height=20    xoffset=-1    yoffset=-1    xadvance=11    page=0
-char id=154  x=11    y=147   width=9     height=20    xoffset=-1    yoffset=-1    xadvance=11    page=0
+char id=154  x=11    y=147   width=9     height=20    xoffset=-1    yoffset=-1    xadvance=6    page=0
 char id=155  x=14    y=189   width=6     height=20    xoffset=-1    yoffset=-1    xadvance=11    page=0
 char id=156  x=39    y=0     width=18    height=20    xoffset=-1    yoffset=-1    xadvance=11    page=0
-char id=158  x=41    y=147   width=9     height=20    xoffset=-1    yoffset=-1    xadvance=11    page=0
+char id=158  x=41    y=147   width=9     height=20    xoffset=-1    yoffset=-1    xadvance=7    page=0
 char id=159  x=12    y=84    width=11    height=20    xoffset=-1    yoffset=-1    xadvance=11    page=0
 char id=160  x=252   y=84    width=3     height=20    xoffset=-1    yoffset=-1    xadvance=4     page=0
 char id=161  x=33    y=189   width=5     height=20    xoffset=-1    yoffset=-1    xadvance=4     page=0
