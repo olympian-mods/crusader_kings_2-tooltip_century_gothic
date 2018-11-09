@@ -13,11 +13,20 @@ This mod changes the tooltip font to "Century Gothic Bold 18", the same font tha
 [h1]Ironman[/h1]
 This mod is Ironman compatible.
 
+[h1]Collection[/h1]
+Go full gothic with Parasite03's and Olympian's [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1099375000]Century Gothic Font Overhaul[/url] Steam Collection!
+
 [h1]Additional Mods[/h1]
 In addition to this mod you can subscribe to the following mods:
 [list]
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=735130352]Interface: Century Gothic[/url]: change all fonts to "Century Gothic"
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=739149045]Interface: Stellaris Colors[/url]: Stellaris color palette
+[/list]
+
+[h1]Manual Download[/h1]
+Release package and source code:
+[list]
+[*] [url=https://github.com/olympian-mods/crusader_kings_2-tooltip_century_gothic/releases/tag/1.0.4]v1.0.4 for CK II 2.8.3.3[/url]
 [/list]
 
 [h1]Miscellaneous[/h1]
@@ -27,4 +36,4 @@ In addition to this mod you can subscribe to the following mods:
 [/list]
 
 [h1]Thanks[/h1]
-Big thanks to Kaiji for extensive testing and ross-g for the initial inspiration for this mod.
+Big thanks to Parasite03 for creating the Steam Collection, to Kaiji for extensive testing and ross-g for the initial inspiration for this mod.
